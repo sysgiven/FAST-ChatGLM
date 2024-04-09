@@ -1,8 +1,5 @@
 # FAST-ChatGLM FROM ChatGLM
 
-
-
-1
 ## 介绍
 ChatGLM是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。
 基于开源模型ChatGLM开发的加速版FAST-ChatGLM已发布，结合模型剪枝、模型量化、模型蒸馏等模型压缩技术，使该模型可在最低一千元的显卡上运行，在更高级的显卡上也会得到20倍的加速。
