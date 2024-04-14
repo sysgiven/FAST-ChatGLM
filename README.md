@@ -9,6 +9,10 @@ ChatGLM是一个开源的、支持中英双语的对话语言模型，基于 [Ge
 ## 更新信息
 **[2023/12/25]** 发布 [FAST-ChatGLM](https://github.com/sysgiven/FAST-ChatGLM) ，基于 ChatGLM的模型，训练和推理速度全面提升。
 
+### 打包下载
+[BaiDu Cloud]https://pan.baidu.com/s/1e3gJOi4qRPL7IKZkO1sK2g?pwd=pxx6 提取码：pxx6
+[KuaKe Cloud]https://pan.quark.cn/s/ed85c163b3f6 提取码：Njzt
+
 ### 环境安装
 
 使用 pip 安装依赖：`pip install -r requirements.txt`，其中 `transformers` 库版本推荐为 `4.27.1`，但理论上不低于 `4.23.1` 即可。
@@ -49,9 +53,6 @@ ChatGLM是一个开源的、支持中英双语的对话语言模型，基于 [Ge
 | PEGASUS-Large | 44.2     | 21.5     | **41.4** |
 | BART-Large    | 44.2     | 21.3     | 40.9     |
 
-
-    
-    </details>
 
 ## 协议
 
